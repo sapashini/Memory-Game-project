@@ -343,7 +343,7 @@ function gameWon() {
 }
 
 // Game lost function.
-/*function gameLost() {
+function gameLost() {
   stopTimer();
   writeModalStats();
   toggleModal();
